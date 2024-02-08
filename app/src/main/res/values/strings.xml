@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">KnowEver</string>
+    <string name="key_book">BOOK_KEY</string>
+    <string name="key_chapter">CHAPTER_KEY</string>
+    <string name="key_block">BLOCK_KEY</string>
+    <string name="action_open">Открыть</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_settings">Настройки</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="pref_color">Цвет</string>
+    <string name="pref_color_black">Черный цвет</string>
+    <string name="pref_color_red">Красный цвет</string>
+    <string name="pref_color_green">Зеленый цвет</string>
+    <string name="pref_color_blue">Синий цвет</string>
+    <string name="pref_size">Размер</string>
+    <string name="pref_style">Стиль</string>
+    <string name="pref_style_regular">Нормальный</string>
+    <string name="pref_style_bold">Полужирный</string>
+    <string name="pref_style_italic">Курсив</string>
+    <string-array name="fsize">
+        <item>12</item>
+        <item>14</item>
+        <item>18</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="fonts">
+        <item>Нормальный</item>
+        <item>Курсив</item>
+        <item>Полужирный</item>
+    </string-array>
+</resources>

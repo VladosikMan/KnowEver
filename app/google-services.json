@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "831359068195",
+    "firebase_url": "https://knoweverbd-default-rtdb.firebaseio.com",
+    "project_id": "knoweverbd",
+    "storage_bucket": "knoweverbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831359068195:android:17e8c31fc7e0b31dabe996",
+        "android_client_info": {
+          "package_name": "ru.vladgad.knowever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831359068195-hr9cjkfgsgockt68vv8jblu5lmtl8nnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEBDFsuRYafPKD7VN7conZZpAQAeHNMtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831359068195-hr9cjkfgsgockt68vv8jblu5lmtl8nnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
